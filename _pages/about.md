@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Jianyu Yao received the master's degree from the State Key Laboratory of Computer Architecture, Institute of Computing Technology, Chinese Academy of Sciences, and supervised by Prof. [Yunquan Zhang](https://scholar.google.com/citations?user=Cxg_yNoAAAAJ&hl=en)
+I received the master's degree from the State Key Laboratory of Computer Architecture, Institute of Computing Technology, Chinese Academy of Sciences, and supervised by Prof. [Yunquan Zhang](https://scholar.google.com/citations?user=Cxg_yNoAAAAJ&hl=en)
 
 Please refer to my CV. If you have any questions, feel free to contact me by email.
 
