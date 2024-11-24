@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I received the master's degree from the State Key Laboratory of Computer Architecture, Institute of Computing Technology, Chinese Academy of Sciences, and supervised by Prof. [Yunquan Zhang](https://scholar.google.com/citations?user=Cxg_yNoAAAAJ&hl=en)
+I received the master's degree from the State Key Laboratory of Computer Architecture, Institute of Computing Technology, Chinese Academy of Sciences, and supervised by Prof. [Yunquan Zhang](https://scholar.google.com/citations?user=Cxg_yNoAAAAJ&hl=en). Before this, I received my B.E. degree in Computer Science from Shandong University.
 
 Please refer to my CV. If you have any questions, feel free to contact me by email.
 
@@ -15,7 +15,8 @@ Research Interests
 * High-Performance Computing
 * High-Performance Machine learning
 
-======
+
+<!-- ======
 
 # FOLLOWING EXAMPLES
 
@@ -59,3 +60,6 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+
+ -->
